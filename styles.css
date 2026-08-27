@@ -3,7 +3,8 @@ body {
   background-color: #F5F0E6;
   font-family: Georgia, serif;
 }
-.subtitle { color: red; }
+.subtitle { color: red; 
+border: 2px solid black;}
 #page-title { font-size: 48px; color: navy; }
 #my-name {
   color: navy;
