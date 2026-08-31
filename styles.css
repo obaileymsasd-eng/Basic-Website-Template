@@ -3,13 +3,13 @@ body {
   background-color: #F5F0E6;
   font-family: Georgia, serif;
 }
-.subtitle { color: red; 
+.coolcolor { color: red; 
 border: 3px solid black;
 padding: 20px;
 margin: 30px;
 width: 100px;}
 #page-title { font-size: 48px; color: navy; }
-#my-name {
+#oliver {
   color: navy;
   font-size: 40px;
   margin-top: 100px;
